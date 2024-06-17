@@ -16,10 +16,15 @@ The website features various graphs, including:
 
 Map of distribution
 Histogram of created year
+
 Scatterplot of subscriber vs total views
+
 Scatterplot of subscriber vs total video uploads
+
 Scatterplot of highest total earnings vs unemployment rate
+
 Technologies Used
+
 # Frontend
 Dash for interactive web development
 # Backend
